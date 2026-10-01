@@ -246,7 +246,7 @@ The exact structure may change as the implementation develops.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/JerinJalal/Weekly_Dengue_Outbreak_Forecasting_Machine_Learning.git
+git clone https://github.com/JerinJalal/Dengue_Outbreak_Forecasting_Machine_Learning.git
 cd Weekly_Dengue_Outbreak_Forecasting_Machine_Learning
 ```
 
@@ -290,7 +290,7 @@ A BibTeX entry can be added here:
   title  = {Weekly Dengue Outbreak Forecasting in Bangladesh Using Classical Machine Learning on Climate and Case-History Features},
   author = {Jerin Jalal, Prionty Kundu Aurin, Sadia Sultana, Zarin Tasnim},
   year   = {2026},
-  url    = {https://github.com/JerinJalal/Weekly_Dengue_Outbreak_Forecasting_Machine_Learning.git}
+  url    = {https://github.com/JerinJalal/Dengue_Outbreak_Forecasting_Machine_Learning.git}
 }
 ```
 
